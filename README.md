@@ -1,1 +1,3 @@
 # movie-genre-classifier
+
+Natural language processing (NLP) is an ever expanding area of research. Many tasks are involved in NLP, including text classification. This report evaluates the performance of three popular text classification algorithms. The problem of interest is determining movie genres based off of their movie plot summaries. The data was scraped from Wikipedia and consists of 20,070 movies. One of the most popular algorithms, due to its consistency in tackling a wide range of classification problems, is Random Forests. This algorithm will be compared to two other classifiers seen more often in text classification, namely Naïve Bayes and logistic regression.
